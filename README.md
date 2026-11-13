@@ -6,6 +6,19 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Backend+Developer+from+France+%F0%9F%87%AB%F0%9F%87%B7;C%2B%2B+%2F+Next.js+%2F+System+Optimization;Building+high-performance+apps+%26+bots" alt="Typing SVG" />
 </div>
 
+---
+
+### 👨‍💻 About Me
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Coding_&_Building-990000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-C++_%2F_Next.js-550000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+
 ### 📊 Statistic
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Logan-FORNIER&theme=shadow-red&locale=fr)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Logan-FORNIER&theme=shadow-red&hide_border=false" alt="GitHub Streak" />
+</div>
