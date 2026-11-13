@@ -8,6 +8,4 @@
 
 ### 📊 Statistic
 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Logan-FORNIER&theme=shadow-red&locale=fr)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Logan-FORNIER&theme=shadow-red&locale=fr)](https://git.io/streak-stats)
